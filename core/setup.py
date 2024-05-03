@@ -32,7 +32,7 @@ setup(
         "ipwhois==1.2.0",
         "pandas==1.2.5",
         "click==7.1.2",
-        "tqdm==4.64.1",
+        "tqdm==4.66.3",
         "bs4==0.0.1"
     ],
     entry_points={
